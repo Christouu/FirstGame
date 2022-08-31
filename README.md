@@ -1,6 +1,6 @@
 # FirstGame
 
-This is my first time working with animations and creating something like a game.
+This is my first time working with drawImage() and creating something like a game.
 
 ![project1](https://user-images.githubusercontent.com/89661647/187671954-e7140106-7d81-4af7-b892-94a5c83b5f3a.png)
 ![project2](https://user-images.githubusercontent.com/89661647/187671993-972ecbef-5a93-4d1c-92dd-263d8e7aa9bc.png)
