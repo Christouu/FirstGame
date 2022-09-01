@@ -73,8 +73,6 @@ animationState.forEach((state, index) => {
   spriteAnimations[state.name] = frames;
 });
 
-console.log(spriteAnimations);
-
 //creates html img element
 const playerImage = new Image();
 playerImage.src = "shadow_dog.png";
